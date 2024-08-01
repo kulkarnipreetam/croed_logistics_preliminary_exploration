@@ -4,7 +4,7 @@ Crowd logistics is a part of the sharing economy in which individual carriers of
 ## Citation
 Kulkarni, P., & Krejci, C. (2022, October). Evaluating a Crowd Logistics Network Using Agent-Based Modeling. In Conference
 of the Computational Social Science Society of the Americas (pp. 21-34). Cham: Springer International Publishing.
-## Link
+## URL
 https://link.springer.com/chapter/10.1007/978-3-031-37553-8_2
 
 ## Important Notice
